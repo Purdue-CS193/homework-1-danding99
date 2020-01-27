@@ -17,8 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-1. Hi
-2. feji
+
 1. Numbered
 2. List
 
